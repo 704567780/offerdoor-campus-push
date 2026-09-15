@@ -1,2 +1,13 @@
-# offerdoor-campus-push
-OfferDoor 校招偏好推送 · 巡检改推送
+# 校招群越加越多，为什么更不知道投谁？
+
+校招信息零散时，真正累的是「主动去捞」——打开、翻、比对、担心漏掉。
+
+[OfferDoor](https://offerdoor.cn) 想换一种获取方式：
+
+**先设好偏好 → 按日更校招数据筛选 → 微信等通道主动推送 → 你点进可投递岗位并自己记账。**
+
+- 不是再多收藏一个网站，而是把巡检改成推送
+- 推送尽量落在你的偏好里
+- 进度是台账，不会自动同步企业系统
+
+开始：[校招表](https://offerdoor.cn/jobs) · [教程](https://offerdoor.cn/guide) · [官网](https://offerdoor.cn)
